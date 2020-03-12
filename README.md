@@ -1,0 +1,2 @@
+# quarantine-day-2-work
+should Pokemon be the join table between Trainer and Pokedex  or should Pokedex actually be the join table between Pokemon and Trainer? How would changing this domain affect your application? For example: If two trainers both have Dittos how would this work in the way you currently built your domain vs if you were to make the changes I suggest and how would this change the way your Domain-Model and Schema maps out?
